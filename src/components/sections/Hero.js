@@ -1,8 +1,8 @@
 import React, { useState } from 'react'; 
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
-import ButtonGroup from '../elements/ButtonGroup';
-import Button from '../elements/Button';
+/* import ButtonGroup from '../elements/ButtonGroup';
+import Button from '../elements/Button'; */
 import Image from '../elements/Image';
 import Modal from '../elements/Modal'; 
 
@@ -65,9 +65,9 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+                Broke starving artist based out of Wichita, Kansas. Contact at alexisbaty2003@gmail.com
                 </p>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
+              { /* <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
                     Get started
@@ -76,7 +76,7 @@ const Hero = ({
                     View on Github
                     </Button>
                 </ButtonGroup>
-              </div>
+  </div> */ }
             </div>
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
@@ -91,8 +91,8 @@ const Hero = ({
                 className="has-shadow"
                 src={require('./../../assets/images/video-placeholder.jpg')}
                 alt="Hero"
-                width={896}
-                height={504} />
+                width={448}
+                height={252} />
             </a>
           </div>
           <Modal
