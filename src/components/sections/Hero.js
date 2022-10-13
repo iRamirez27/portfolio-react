@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'; 
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
-import Modal from '../elements/Modal';
+import Modal from '../elements/Modal'; 
 
 const propTypes = {
   ...SectionProps.types
@@ -30,7 +30,7 @@ const Hero = ({
   const openModal = (e) => {
     e.preventDefault();
     setVideomodalactive(true);
-  }
+  } 
 
   const closeModal = (e) => {
     e.preventDefault();
@@ -85,6 +85,7 @@ const Hero = ({
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
+
             >
               <Image
                 className="has-shadow"
@@ -110,3 +111,4 @@ Hero.propTypes = propTypes;
 Hero.defaultProps = defaultProps;
 
 export default Hero;
+
