@@ -4,6 +4,8 @@ import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
 
+import "./Tiles.css";
+
 const propTypes = {
   ...SectionTilesProps.types
 }
@@ -63,7 +65,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-01.svg')}
+                      src={require('./../../assets/images/up-arrow.svg')}
                       alt="Features tile icon 01"
                       width={64}
                       height={64} />
@@ -85,7 +87,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-02.svg')}
+                      src={require('./../../assets/images/up-arrow.svg')}
                       alt="Features tile icon 02"
                       width={64}
                       height={64} />
@@ -93,10 +95,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    KSPA 2022 6A State Sweepstakes
+                    KSPA Monthly Award; February 2021 
                     </h4>
                   <p className="m-0 text-sm">
-                    Third place in Multimedia Storytelling
+                    First place in Infographics
                     </p>
                 </div>
               </div>
@@ -107,7 +109,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-03.svg')}
+                      src={require('./../../assets/images/border.svg')}
                       alt="Features tile icon 03"
                       width={64}
                       height={64} />
@@ -129,7 +131,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-04.svg')}
+                      src={require('./../../assets/images/school.svg')}
                       alt="Features tile icon 04"
                       width={64}
                       height={64} />
@@ -151,7 +153,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/sparkles2.svg')}
+                      src={require('./../../assets/images/snow.svg')}
                       alt="Features tile icon 05"
                       width={64}
                       height={64} />
@@ -173,7 +175,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-01.svg')}
+                      src={require('./../../assets/images/wheel.svg')}
                       alt="Features tile icon 06"
                       width={64}
                       height={64} />
@@ -181,10 +183,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    KSPA Monthly Award; February 2021
+                    KSPA 2022 6A State Sweepstakes
                     </h4>
                   <p className="m-0 text-sm">
-                    First place in Infographics
+                    Third place in Multimedia Storytelling
                     </p>
                 </div>
               </div>

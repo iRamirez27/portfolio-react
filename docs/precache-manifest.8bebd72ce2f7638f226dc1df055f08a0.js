@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "027088dcb1e91b5f5a6c92ff1dc9683b",
+    "revision": "7cfacbb058071253731e1f3a8ee7c0ab",
     "url": "/portfolio-react/index.html"
   },
   {
-    "revision": "21e0d58ec9f1b4efeee8",
-    "url": "/portfolio-react/static/css/main.7b93132e.chunk.css"
+    "revision": "113d881699d69ca9197d",
+    "url": "/portfolio-react/static/css/main.446644d8.chunk.css"
   },
   {
-    "revision": "1451d9176361f0595f20",
-    "url": "/portfolio-react/static/js/2.371792f3.chunk.js"
+    "revision": "fcabfd04566db810fd03",
+    "url": "/portfolio-react/static/js/2.d8abba37.chunk.js"
   },
   {
     "revision": "d5b473ff893d6b5fac7d0b5081a5072a",
-    "url": "/portfolio-react/static/js/2.371792f3.chunk.js.LICENSE.txt"
+    "url": "/portfolio-react/static/js/2.d8abba37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "21e0d58ec9f1b4efeee8",
-    "url": "/portfolio-react/static/js/main.f2825727.chunk.js"
+    "revision": "113d881699d69ca9197d",
+    "url": "/portfolio-react/static/js/main.fe019e64.chunk.js"
   },
   {
     "revision": "4ae7d374cd2031bc3b0c",
     "url": "/portfolio-react/static/js/runtime-main.b5c9aa46.js"
+  },
+  {
+    "revision": "c49450e01781e6c31e0539ebfd688e3e",
+    "url": "/portfolio-react/static/media/border.c49450e0.svg"
   },
   {
     "revision": "74ecd4c497558b1cb21fd540fc746fe9",
@@ -30,22 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
     "url": "/portfolio-react/static/media/cta-illustration.3ce357e7.svg"
-  },
-  {
-    "revision": "0f9928d77bc67692e90527ec092fcbd0",
-    "url": "/portfolio-react/static/media/feature-tile-icon-01.0f9928d7.svg"
-  },
-  {
-    "revision": "bd39f30434175e7c8b1d1c74fa6569fd",
-    "url": "/portfolio-react/static/media/feature-tile-icon-02.bd39f304.svg"
-  },
-  {
-    "revision": "66f37ba5c7e4b6648f04883fa637e634",
-    "url": "/portfolio-react/static/media/feature-tile-icon-03.66f37ba5.svg"
-  },
-  {
-    "revision": "836acd100a942420f8ab4e6c5e4162d8",
-    "url": "/portfolio-react/static/media/feature-tile-icon-04.836acd10.svg"
   },
   {
     "revision": "b63c390ba265d0b7350b4df0647cdc2f",
@@ -68,11 +56,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/static/media/logo.2810a88b.svg"
   },
   {
-    "revision": "fd598b29904b62835ca8b1cbb78a83bd",
-    "url": "/portfolio-react/static/media/sparkles2.fd598b29.svg"
+    "revision": "e593b77690882b101dffbdb70bacdbad",
+    "url": "/portfolio-react/static/media/school.e593b776.svg"
+  },
+  {
+    "revision": "5cb7dab467e21a3acd6070e948e24ce0",
+    "url": "/portfolio-react/static/media/snow.5cb7dab4.svg"
+  },
+  {
+    "revision": "2dbdbef693e66e25eda5061ac7b63ec6",
+    "url": "/portfolio-react/static/media/up-arrow.2dbdbef6.svg"
   },
   {
     "revision": "5fe9ce1f341bc901a14899954960b5a4",
     "url": "/portfolio-react/static/media/video-placeholder.5fe9ce1f.jpg"
+  },
+  {
+    "revision": "642abe5eb56c3d0a8b7aaa9f6af8b80c",
+    "url": "/portfolio-react/static/media/wheel.642abe5e.svg"
   }
 ]);
