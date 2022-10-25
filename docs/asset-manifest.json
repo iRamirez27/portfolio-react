@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.446644d8.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.fe019e64.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.fe019e64.chunk.js.map",
+    "main.css": "/portfolio-react/static/css/main.afe12997.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.ae67e480.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.ae67e480.chunk.js.map",
     "runtime-main.js": "/portfolio-react/static/js/runtime-main.b5c9aa46.js",
     "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.b5c9aa46.js.map",
     "static/js/2.d8abba37.chunk.js": "/portfolio-react/static/js/2.d8abba37.chunk.js",
     "static/js/2.d8abba37.chunk.js.map": "/portfolio-react/static/js/2.d8abba37.chunk.js.map",
     "index.html": "/portfolio-react/index.html",
-    "precache-manifest.8bebd72ce2f7638f226dc1df055f08a0.js": "/portfolio-react/precache-manifest.8bebd72ce2f7638f226dc1df055f08a0.js",
+    "precache-manifest.63ad112bb6186dd320d38adf01767928.js": "/portfolio-react/precache-manifest.63ad112bb6186dd320d38adf01767928.js",
     "service-worker.js": "/portfolio-react/service-worker.js",
-    "static/css/main.446644d8.chunk.css.map": "/portfolio-react/static/css/main.446644d8.chunk.css.map",
+    "static/css/main.afe12997.chunk.css.map": "/portfolio-react/static/css/main.afe12997.chunk.css.map",
     "static/js/2.d8abba37.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.d8abba37.chunk.js.LICENSE.txt",
-    "static/media/border.svg": "/portfolio-react/static/media/border.c49450e0.svg",
     "static/media/capitalist_man.png": "/portfolio-react/static/media/capitalist_man.74ecd4c4.png",
+    "static/media/corners.svg": "/portfolio-react/static/media/corners.e6c9ed2c.svg",
     "static/media/style.scss": "/portfolio-react/static/media/illustration-section-02.63d0555d.svg",
     "static/media/features-split-image-02.png": "/portfolio-react/static/media/features-split-image-02.b63c390b.png",
     "static/media/features-split-image-03.jpg": "/portfolio-react/static/media/features-split-image-03.33e0d372.jpg",
     "static/media/logo.svg": "/portfolio-react/static/media/logo.2810a88b.svg",
     "static/media/school.svg": "/portfolio-react/static/media/school.e593b776.svg",
     "static/media/snow.svg": "/portfolio-react/static/media/snow.5cb7dab4.svg",
-    "static/media/up-arrow.svg": "/portfolio-react/static/media/up-arrow.2dbdbef6.svg",
+    "static/media/star.svg": "/portfolio-react/static/media/star.addaf5b1.svg",
     "static/media/video-placeholder.jpg": "/portfolio-react/static/media/video-placeholder.5fe9ce1f.jpg",
     "static/media/wheel.svg": "/portfolio-react/static/media/wheel.642abe5e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b5c9aa46.js",
     "static/js/2.d8abba37.chunk.js",
-    "static/css/main.446644d8.chunk.css",
-    "static/js/main.fe019e64.chunk.js"
+    "static/css/main.afe12997.chunk.css",
+    "static/js/main.ae67e480.chunk.js"
   ]
 }

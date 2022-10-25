@@ -1,12 +1,18 @@
 * {
-    color: #000
+    color: #000;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.item {
-    color: #fab
+.m-0  *{
+    color: #fab !important;
 }
 
 .center-content {
     text-align: center;
     text-decoration: #fab;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.features-tiles-item-image {
+    align-items: center;
 }

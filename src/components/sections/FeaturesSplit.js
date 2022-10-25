@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Graphic Design Work
                   </h3>
                 <p className="m-0">
-                  
+                  {/* Capitalist Man */ }
                   </p>
               </div>
               <div className={

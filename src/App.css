@@ -8,5 +8,7 @@
     box-sizing: border-box;
 
     background-color: #444;
+    /* background-image: linear-gradient(#fab, #000); */
     margin: 0;
+    font-family: sans-serif;
 }

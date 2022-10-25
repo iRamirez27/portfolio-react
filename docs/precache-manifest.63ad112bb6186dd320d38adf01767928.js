@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cfacbb058071253731e1f3a8ee7c0ab",
+    "revision": "35331fb6325d19470a668726944b9124",
     "url": "/portfolio-react/index.html"
   },
   {
-    "revision": "113d881699d69ca9197d",
-    "url": "/portfolio-react/static/css/main.446644d8.chunk.css"
+    "revision": "82218f23851ac3943ec7",
+    "url": "/portfolio-react/static/css/main.afe12997.chunk.css"
   },
   {
     "revision": "fcabfd04566db810fd03",
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/static/js/2.d8abba37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "113d881699d69ca9197d",
-    "url": "/portfolio-react/static/js/main.fe019e64.chunk.js"
+    "revision": "82218f23851ac3943ec7",
+    "url": "/portfolio-react/static/js/main.ae67e480.chunk.js"
   },
   {
     "revision": "4ae7d374cd2031bc3b0c",
     "url": "/portfolio-react/static/js/runtime-main.b5c9aa46.js"
   },
   {
-    "revision": "c49450e01781e6c31e0539ebfd688e3e",
-    "url": "/portfolio-react/static/media/border.c49450e0.svg"
-  },
-  {
     "revision": "74ecd4c497558b1cb21fd540fc746fe9",
     "url": "/portfolio-react/static/media/capitalist_man.74ecd4c4.png"
+  },
+  {
+    "revision": "e6c9ed2ca86f69629ccd6e1457e04971",
+    "url": "/portfolio-react/static/media/corners.e6c9ed2c.svg"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/static/media/snow.5cb7dab4.svg"
   },
   {
-    "revision": "2dbdbef693e66e25eda5061ac7b63ec6",
-    "url": "/portfolio-react/static/media/up-arrow.2dbdbef6.svg"
+    "revision": "addaf5b10a5b201ceccc8f26f40b500e",
+    "url": "/portfolio-react/static/media/star.addaf5b1.svg"
   },
   {
     "revision": "5fe9ce1f341bc901a14899954960b5a4",
